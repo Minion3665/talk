@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "talk", "talk\talk.csproj", "{D5FB777C-5A70-42F8-BAB1-426C617F46C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example bot", "example bot\example bot.csproj", "{D90E35EC-9748-45BA-8DE5-779D3788A8B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5FB777C-5A70-42F8-BAB1-426C617F46C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5FB777C-5A70-42F8-BAB1-426C617F46C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5FB777C-5A70-42F8-BAB1-426C617F46C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5FB777C-5A70-42F8-BAB1-426C617F46C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D90E35EC-9748-45BA-8DE5-779D3788A8B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D90E35EC-9748-45BA-8DE5-779D3788A8B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D90E35EC-9748-45BA-8DE5-779D3788A8B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D90E35EC-9748-45BA-8DE5-779D3788A8B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
